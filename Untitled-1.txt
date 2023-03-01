@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Music</title>
+	</head>
+    <style>
+ body {background-color: darkred;}
+</style>
+	<body>
+	    <h1>$uicideBoy$</h1>
+	    <p>
+	      <p style="color:white;">Antarctica</p>  
+	    </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s1-0lt7b-78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	</body>
+
+<p>
+<p style="color:white;">Carrolton</p>
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kgjIEVAFGrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>
+<p style="color:white;">Matte Black</p>
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gdEe_lXsULg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</html>
